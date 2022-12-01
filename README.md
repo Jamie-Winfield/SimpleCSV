@@ -2,6 +2,8 @@
 
 A single header CSV reader written for C++.
 
+To use the reader simply clone and include the header file in your project
+
 # Examples
 
 To load a CSV file into the reader you simply pass the path to the file to the reader, this must be a file ending in the .csv extension.
